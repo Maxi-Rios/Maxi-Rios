@@ -1,4 +1,7 @@
 <h1 align="center">Hola hackers 👋, soy Maxi-Rios</h1>
+<div id="header" align="center" >
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
+</div>
 <h3 align="center">Soy un FullStack Developer maravillado con el mundo IT con muchas ganas de aprender y crecer reforzando mis habilidades</h3>
 
 <h3 align="left">Connect with me:</h3>
